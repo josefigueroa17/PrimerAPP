@@ -13,6 +13,7 @@ public class PrimerAPP {
     public static void main(String[] args) {
     
         JOptionPane.showMessageDialog(null, "Hola perro");
+        JOptionPane.showMessageDialog(null, "Que ondas ");
     }
     
 }
